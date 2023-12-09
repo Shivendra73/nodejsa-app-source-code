@@ -10,7 +10,7 @@ on:
 
 env:
   AWS_DEFAULT_REGION: us-east-1 # Replace with your AWS region
-  AWS_ACCOUNT_ID: AKIAUL4AP4BKPPXECWJR # Replace with your AWS account ID
+  AWS_ACCOUNT_ID: 3003-8031-5732 # Replace with your AWS account ID
   ECR_REPO: ecr-web-image # Replace with your ECR repository name
   IMAGE_TAG: latest
 
